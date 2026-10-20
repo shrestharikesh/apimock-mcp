@@ -1,0 +1,24 @@
+{
+  "name": "apimock-mcp",
+  "version": "1.2.0",
+  "description": "Model Context Protocol (MCP) server for APIMock (https://apimock.dev) — build and debug hosted mock APIs from AI coding agents.",
+  "homepage": "https://apimock.dev/docs/mcp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shrestharikesh/apimock-mcp.git"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "apimock",
+    "mock-api",
+    "api-mocking",
+    "fake-rest-api",
+    "claude",
+    "cursor",
+    "agentic-coding"
+  ],
+  "author": "Rikesh Shrestha",
+  "license": "MIT"
+}
